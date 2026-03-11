@@ -1,5 +1,6 @@
 # API Secrets
 .env
+.env.example
 
 # Python specific
 __pycache__/
