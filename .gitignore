@@ -1,0 +1,7 @@
+# API Secrets
+.env
+
+# Python specific
+__pycache__/
+*.py[cod]
+.venv/
